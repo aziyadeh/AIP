@@ -38,7 +38,7 @@ aspire:
           #Run all folder stories - stories/01-login/**.story
           #Run some sequance stories - stories/05-Physics Today/TC-01**.story //(TC-01 ,TC-010 ,TC-011,TC-012 -...-TC-019)
          
-          - stories/**/TC-003-Verify-clicking-About-link-On-Bioengineering.story
+          - stories/**/**.story
          
           
           
