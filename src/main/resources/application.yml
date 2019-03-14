@@ -5,7 +5,7 @@ aspire:
    
   console: 
   # turn it to false upon run it on jenkins
-    enabled: true 
+    enabled: false 
   
   
   dashboard:
